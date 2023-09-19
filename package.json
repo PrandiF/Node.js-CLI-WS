@@ -1,0 +1,24 @@
+{
+  "name": "node.js-cli-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrandiF/Node.js-CLI-WS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrandiF/Node.js-CLI-WS/issues"
+  },
+  "homepage": "https://github.com/PrandiF/Node.js-CLI-WS#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "request": "^2.88.2"
+  }
+}
